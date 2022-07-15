@@ -6,3 +6,4 @@ public class Hello {
 	}
 
 }
+//just for fun
